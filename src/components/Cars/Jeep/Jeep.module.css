@@ -1,0 +1,36 @@
+.jeep_price {
+    color: grey;
+}
+
+.block {
+    padding: 10px 1px;
+    margin-right: 89px;
+}
+
+.box {
+    padding: .6rem 2rem;
+
+}
+
+.image {
+    width: 481px;
+}
+
+.slider {
+    margin-left: 60px;
+}
+
+.jeep {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+.desc_item {
+    padding: 0.8rem;
+}
+
+.jeep_desc {
+    width: 115%;
+}

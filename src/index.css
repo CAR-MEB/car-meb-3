@@ -1,0 +1,13 @@
+.container {
+  max-width: 1140px;
+  width: 100%;
+  display: flex;
+  padding: 10px 1px;
+
+
+}
+
+
+a {
+  text-decoration: none;
+}
